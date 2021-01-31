@@ -122,9 +122,10 @@ nav ul li a:hover, a.active{
 }
 
 #booked-message{
-    background-color: #fff;
+    background-color: rgba(240, 230, 230, 0.897);
     border: 1px solid #ddd;
-    padding: 25px;
+    padding: 40px;
+    margin: 40px;
     border-radius: 5px;
     float: left;
     display: none;
